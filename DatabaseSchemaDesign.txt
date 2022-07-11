@@ -1,0 +1,24 @@
+Database Schema Design
+
+
+QUESTION TABLE
+User = Foriegnkey(user)
+Title = CharField
+Content = RichTextField
+Date = DateTimeField
+Likes = ManyToManyField
+
+
+COMMENT TABLE
+Question = ForiegnKey(Question)
+Name = CharField
+Content= RichTextField
+Date = DateTimeField
+
+
+USER TABLE
+Username = PrimaryKey
+Bio = CharField
+PhoneNumber = IntegerField
+Image = ImageField(upload = " ")
+

@@ -1,0 +1,25 @@
+﻿The came up with a rough strategy for the first sprint, and it was as follows
+
+1. The build a simple webapplication where the users want post the quesition the in website . To building the post related fuctionalities like Post content field,  Date , User , Title.
+
+2. The build the Database tables to stores information about the Question related fuctions like Date, User, Title, Content.
+
+3. The next step was to create Comment function who are like post comment that post  that allowed different users .
+
+4. The next step was to create Like function to answers . The users to see the answers if it is correct the user like the answers and it will be show the likes on the quesion beside. The main goal of these function if high likes contain that  questions will be mostly trusted to user to use. 
+
+5. The last step in the first sprint create a Search function. These function is easy to findout the answers related the what users want it is safe time for users.
+
+
+
+The second sprint and it is follows:
+
+1. To build the Registration page  creating a username and password who want to visit the website and see the answers.
+
+2. The next step is the database remember data validate the user to access the  user.
+
+3.The change password and keep it secure.  
+
+
+
+
